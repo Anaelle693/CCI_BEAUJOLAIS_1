@@ -335,10 +335,6 @@ footer .pied_page a .fab{
         color: #f7f9f9;
     }
     /* MAIN - CAMPUS MARTELET */
-    .container .martelet img{
-        width: 450px;
-        margin: 0;
-    }
     .container .martelet p{
         text-align: center;
         font-size: 15px;
